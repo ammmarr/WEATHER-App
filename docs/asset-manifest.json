@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c4db0f49.css",
+    "main.js": "/static/js/main.4304ac66.js",
+    "static/media/pexels-instawalli-165754.jpg": "/static/media/pexels-instawalli-165754.d5d67d2debf9793da6ee.jpg",
+    "index.html": "/index.html",
+    "main.c4db0f49.css.map": "/static/css/main.c4db0f49.css.map",
+    "main.4304ac66.js.map": "/static/js/main.4304ac66.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4db0f49.css",
+    "static/js/main.4304ac66.js"
+  ]
+}
